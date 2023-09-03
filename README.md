@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/elixxrades" target="blank"><img src="https://img.shields.io/twitter/follow/elixxrades?logo=twitter&style=for-the-badge" alt="elixxrades" /></a> </p>
 
-- 🔭 I’m currently working on **API's**
+- 🔭 I’m currently working on **API's and Algorithms**
 
 - 🌱 I’m currently learning **go, ruby on rails, rust, python**
 
